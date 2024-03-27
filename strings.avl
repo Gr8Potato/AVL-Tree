@@ -1,0 +1,30 @@
+stats
+insert twelve
+stats
+insert nine
+paths
+insert eleven
+insert ten
+traverse
+paths
+stats
+insert five
+insert four
+insert three
+insert eight
+insert one
+insert two
+traverse
+paths
+insert six
+insert seven
+stats
+delete two
+delete three
+delete five
+stats
+delete seven
+traverse
+paths
+stats
+remove insert
